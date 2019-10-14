@@ -66,5 +66,6 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
+- [Yen Le] (https://github.com/yenhoangle)
 
 <!-- Please follow ALPHABETICAL ORDER -->
